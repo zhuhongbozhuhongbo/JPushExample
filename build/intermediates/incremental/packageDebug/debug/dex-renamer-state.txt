@@ -1,0 +1,4 @@
+#Fri Sep 07 21:55:28 CST 2018
+base.0=D\:\\github2\\JPushExample(1063798)\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex

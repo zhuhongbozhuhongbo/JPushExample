@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\github2\JPushExample(1063798)\libs\jpush-android-3.1.5.jar"
+        jumboMode="false"
+        min-sdk-version="9"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b4b3d43cfde866eb660e54c9823bc06ed5cee321">
+        <dex dex="D:\github2\JPushExample(1063798)\build\intermediates\transforms\preDex\release\2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\github2\JPushExample(1063798)\libs\jcore-android-1.2.3.jar"
+        jumboMode="false"
+        min-sdk-version="9"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e3732fb5b90c48c17b8f457e01e50d74574b1a78">
+        <dex dex="D:\github2\JPushExample(1063798)\build\intermediates\transforms\preDex\release\1.jar" />
+    </item>
+
+</items>

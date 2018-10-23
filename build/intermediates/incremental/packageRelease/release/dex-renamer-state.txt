@@ -1,0 +1,4 @@
+#Fri Sep 07 23:19:00 CST 2018
+base.0=D\:\\github2\\JPushExample(1063798)\\build\\intermediates\\transforms\\dex\\release\\0
+path.0=classes.dex
+renamed.0=classes.dex
